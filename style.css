@@ -1,0 +1,126 @@
+﻿*{
+    box-sizing: border-box;
+}
+@font-face {
+    font-family: monserat;
+    src: url(fonts/Montserrat-Regular.ttf);
+}
+@font-face {
+    font-family: lato;
+    src: url(fonts/Lato-Bold.ttf);
+}
+@font-face {
+    font-family: poppin;
+    src: url(fonts/Poppins-Regular.ttf);
+}
+@font-face {
+    font-family: noto;
+    src: url(fonts/NotoSerif_Condensed-Regular.ttf);
+}
+
+
+.box{
+    background-color: rgba(9, 140, 38, 1);
+    border-radius: 0% 0% 4% 4%;
+    
+}
+
+.bar{
+    column-gap: 60px;
+    
+}
+
+.dox{
+    background-color: rgba(9, 140, 38, 1);
+    border-radius: 0% 0% 5% 5%;
+}
+
+.coinss{
+    display: flex;
+}
+
+.description{
+    width: 675px;
+    margin-top: 60px;
+}
+
+.imgs{
+    margin-top: 35px;
+}
+
+.digital{
+font-size: 52px;
+font-family: monserat;
+color: rgba(255, 255, 255, 1);
+}
+
+.paragraf{
+    font-size: 40px;
+font-family: monserat;
+color: white;
+}
+
+
+.transactions{
+    font-size: 40px;
+    
+    
+    width: 1200px;
+}
+
+.btn1{
+    width: 300px;
+    font-size: 24px;
+    border-radius: 20PX;
+    color: rgba(255, 255, 255, 1);
+    border: none;
+    background-color: rgba(247, 147, 26, 1);
+}
+
+.btn2{
+    width: 300px;
+    font-size: 24px;
+    border-radius: 20PX;
+    color: rgba(10, 15, 41, 1);
+    border: none;
+    margin-left: 40px;
+    
+}
+
+.platform{
+   text-align: center;
+   margin-top: 60px;
+}
+
+.crypto{
+    font-size: 46px;
+    font-family: monserat;
+    color: rgba(47, 102, 246, 1);
+    
+
+}
+
+
+.transactions{
+    font-size: 40px;
+    font-family: monserat;
+    margin-top: 50px;
+}
+.line{
+    border: 1px solid white;
+    width: 30px;
+    rotate: 100grad;
+}
+
+.main{
+    background-color: rgba(245, 245, 245, 1);
+}
+
+.industryy{
+    font-size: 36px;
+    font-family: lato;
+}
+.ember{
+    font-size: 24px;
+    font-family: poppin;
+}
